@@ -1,2 +1,2 @@
 # Lego_Project
-Ramdon projects to work on some programming languages that i'm trying to be better
+Random projects to work on in some programming languages that I'm trying to improve in.
